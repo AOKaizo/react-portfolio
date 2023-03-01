@@ -5,9 +5,11 @@ import "./App.css";
 function App() {
   return (
     <Box>
-      <Typography>Kolby Wolf</Typography>
+      <Typography variant="h1">Kolby Wolf</Typography>
     </Box>
   );
 }
 
 export default App;
+
+
